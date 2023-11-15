@@ -1,1 +1,1 @@
-console.log('este es el mensaje 6')
+console.log('este es el mensaje 6, editado')
